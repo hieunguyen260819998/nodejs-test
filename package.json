@@ -2,6 +2,8 @@
   "dependencies": {
     "express": "^4.19.2",
     "mysql": "^2.18.1",
-    "socket.io": "^4.7.5"
+    "ngrok": "^5.0.0-beta.2",
+    "socket.io": "^4.7.5",
+    "vercel": "^32.3.0"
   }
 }
